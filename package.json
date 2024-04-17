@@ -1,8 +1,8 @@
 {
-  "name": "next-nest-example",
+  "name": "tmtruck",
   "version": "0.0.1",
-  "description": "",
-  "author": "Alexey Yakovlev <alexeyyakovlev0359@gmail.com>",
+  "description": "Learnign nest-next",
+  "author": "phucnst <phucnst2104@gmail.com>",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -35,7 +35,8 @@
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
-    "supertest": "^6.3.4"
+    "supertest": "^6.3.4",
+    "win-node-env": "^0.6.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",

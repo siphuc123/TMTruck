@@ -6,7 +6,7 @@
 - Currently, I'm just learning more and trying to get started, so I still have no idea about the business and the functions needed. So I just tried to create a web application with the right structure and tried to make it beautiful.
 
 ### Cre:
-- [dev.to](https://dev.to/yakovlev_alexey):
+- [dev.to](https://dev.to/yakovlev_alexey)
 - [Creating a Project with Nest.js + Next.js](https://dev.to/yakovlev_alexey/creating-a-project-with-nestjs-nextjs-3i1i)
 - [Advanced Practices for Nest.js + Next.js Projects](https://dev.to/yakovlev_alexey/advanced-practices-for-nestjs-nextjs-projects-36g9)
 
